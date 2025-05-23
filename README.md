@@ -4,7 +4,7 @@ Estudiante: Russell Madariaga Jara  Seccion 2.
 1. Diagrama de Caso de Uso:
 Error 1: Consultar Disponibilidad externa deberia de estar unida con un include a Revisar sala
 Error 2: Estudiante no dberia de poder ver el historal de otras personas
-Error 3:
+Error 3: Agregar el motivo de cancelacion deberia estar unido con un extend  a cancelar reserva
 
 2. Diagrama de Clases:
 Error 1: Clase Reserva aislada de las demas, lo solocionaria uniendola a la clase SitemaReservas mediante una linea de una a muchas.
