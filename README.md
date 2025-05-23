@@ -2,8 +2,8 @@
 Estudiante: Russell Madariaga Jara  Seccion 2. 
 
 1. Diagrama de Caso de Uso:
-Error 1: 
-Error 2:
+Error 1: Consultar Disponibilidad externa deberia de estar unida con un include a Revisar sala
+Error 2: Estudiante no dberia de poder ver el historal de otras personas
 Error 3:
 
 2. Diagrama de Clases:
